@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.082,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.01.08 15:11:22.319,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.08 15:11:25.133,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:20.136,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:23.743,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:28.334,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:33.322,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:36.380,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:43.688,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:47.718,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:52.229,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit9.cpp</Transaction>
+    <Transaction>2022.01.08 15:15:56.654,=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit10.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:03.299,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Project1.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:03.299,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Project1.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022.01.08 15:17:03.299,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Project1.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:12.367,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit2.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:12.367,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit2.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:12.367,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit2.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2022.01.08 15:17:15.564,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit10.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit10.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:15.564,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit10.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit10.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:15.564,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit10.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit10.h</Transaction>
+    <Transaction>2022.01.08 15:17:18.129,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit9.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit9.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:18.129,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit9.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit9.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:18.129,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit9.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit9.h</Transaction>
+    <Transaction>2022.01.08 15:17:21.199,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit8.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit8.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:21.199,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit8.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit8.h</Transaction>
+    <Transaction>2022.01.08 15:17:21.199,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit8.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:23.752,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit7.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:23.752,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit7.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit7.h</Transaction>
+    <Transaction>2022.01.08 15:17:23.752,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit7.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit7.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:26.338,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit6.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit6.h</Transaction>
+    <Transaction>2022.01.08 15:17:26.338,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit6.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:26.338,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit6.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit6.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:28.899,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit5.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:28.899,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit5.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:28.899,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit5.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit5.h</Transaction>
+    <Transaction>2022.01.08 15:17:31.152,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit4.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:31.152,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit4.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.h</Transaction>
+    <Transaction>2022.01.08 15:17:31.152,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit4.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:33.513,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit3.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.h</Transaction>
+    <Transaction>2022.01.08 15:17:33.513,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit3.cpp=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2022.01.08 15:17:33.513,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Unit3.dfm=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022.01.08 15:17:47.849,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Project1PCH4555.h=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.01.08 15:17:57.013,C:\Users\xikma\OneDrive\Рабочий стол\Reception\Builder\Project1.cbproj=C:\Users\xikma\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
